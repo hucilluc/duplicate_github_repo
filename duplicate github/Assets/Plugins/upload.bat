@@ -1,0 +1,1 @@
+curl -v -b cookie -X PUT -F "space_template[zip]=@/Users/Kate/Desktop/Github/Week7-presentation/New Unity ProjectWeek7-presentation/template.zip" -F "space_template[game_engine_version]=20194" https://account.altvr.com/api/space_templates/1669548856209047997.json

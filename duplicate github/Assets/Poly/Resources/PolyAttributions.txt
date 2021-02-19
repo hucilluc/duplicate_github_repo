@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Desert marigold
+Author: Poly by Google
+URL: https://poly.google.com/view/dYQFgjU5Eqx
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Flower
+Author: Poly by Google
+URL: https://poly.google.com/view/eydI4__jXpi
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Laptop / MacBook Pro
+Author: Alex “SAFFY” Safayan
+URL: https://poly.google.com/view/27hcX_w47Jb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Single Rose
+Author: Suzanne Leibrick
+URL: https://poly.google.com/view/3oVamJsWVQ6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
